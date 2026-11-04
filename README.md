@@ -1,4 +1,4 @@
-# ProjetoAnaliseDadosCAN
+# Projeto Analise de Dados CAN
 Projeto de análise de dados de um log bruto de CAN de um caminhão.
 Link para obtenção dos dado: https://www.engr.colostate.edu/~jdaily/J1939/candata.html
 
