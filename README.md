@@ -9,4 +9,4 @@ Summary: This truck made a cross-country trip from Colorado to Michigan and back
 Number of Messages: 37,754,838
 
 File name(s):
-2014_KW_T270_cross_country_can_log.zip (320,510 KB)
+2014_KW_T270_Starting_CSU090B6.zip (1,277 KB)
